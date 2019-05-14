@@ -1,4 +1,11 @@
-16494594249876645
+16499267945037732
+597-6001-607F
+LEDC3216X110N
+
+
+0
+2
+2
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -52114,6 +52121,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LTST-C230TBKT
+LED_LTST-C235KGKRKT
+
+
+0
+4
+4
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -52899,14 +52913,21 @@ mounting hole 8.4mm m8
 9
 1
 my-ki-cad-images
-jigglebilly
+boomhauer-svg
 
 
 0
 0
 0
 my-ki-cad-images
-jigglebilly-small
+hank-hill
+
+
+0
+0
+0
+my-ki-cad-images
+jigglebilly
 
 
 0
