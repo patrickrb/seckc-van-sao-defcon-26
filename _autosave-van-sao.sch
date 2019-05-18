@@ -71,8 +71,6 @@ Wire Wire Line
 Wire Wire Line
 	3850 3000 3850 5150
 Wire Wire Line
-	3850 5150 3300 5150
-Wire Wire Line
 	2850 5150 2850 4850
 NoConn ~ 3750 4650
 NoConn ~ 3750 4850
@@ -82,7 +80,7 @@ U 1 1 5CE07F40
 P 1450 3950
 F 0 "BT1" H 1568 4046 50  0000 L CNN
 F 1 "Battery_Cell" H 1568 3955 50  0000 L CNN
-F 2 "" V 1450 4010 50  0001 C CNN
+F 2 "Battery:Battery_Panasonic_CR2032-VS1N_Vertical_CircularHoles" V 1450 4010 50  0001 C CNN
 F 3 "~" V 1450 4010 50  0001 C CNN
 	1    1450 3950
 	1    0    0    -1  
@@ -93,11 +91,6 @@ Text Label 1800 3000 0    50   ~ 0
 VDD
 Text Label 2600 4650 0    50   ~ 0
 VDD
-Wire Wire Line
-	3300 5150 3300 5350
-Connection ~ 3300 5150
-Wire Wire Line
-	3300 5150 2850 5150
 Wire Wire Line
 	1450 5150 2850 5150
 Wire Wire Line
@@ -112,4 +105,6 @@ Wire Wire Line
 Connection ~ 2400 4250
 Wire Wire Line
 	2400 4250 2400 4650
+Wire Wire Line
+	2850 5150 3850 5150
 $EndSCHEMATC
